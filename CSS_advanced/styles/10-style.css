@@ -17,7 +17,7 @@ a {
     display: none;
 }
 .section-header {
-    margin: var(--section-header-align);
+    justify-content: var(--section-header-align);
 }
 .card-category, .section-tagline {
     color: var(--color-primary);
