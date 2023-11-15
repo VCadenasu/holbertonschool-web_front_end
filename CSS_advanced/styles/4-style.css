@@ -1,7 +1,11 @@
-* {
+html {
     scroll-behavior: smooth;
 }
-body, a {
+body {
+    color: var(--text-color);
+    font-family: var(--font-family-base);
+}
+a {
     color: var(--text-color);
 }
 .visually-hidden {
@@ -19,9 +23,6 @@ body, a {
     --text-color: var(--color-black);
     --font-family-base: 'helvetica neue', helvetica, arial, sans-serif;
     --font-family-title: 'helvetica neue', helvetica, arial, sans-serif;
-}
-body {
-    font-family: var(--font-family-base);
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
