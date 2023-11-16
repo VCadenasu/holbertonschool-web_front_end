@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0.5rem;
 }
 .col-1-2 {
-    width: 0.5em;
+    width: 50%;
     float: left;
     padding: 0.5rem;
 }
