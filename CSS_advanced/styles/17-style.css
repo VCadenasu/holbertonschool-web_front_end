@@ -34,29 +34,17 @@ a:active {
     color: var(--color-primary);
 }
 .section {
-    padding-left: var(--section-padding);
-    padding-top: var(--section-padding);
-    padding-bottom: var(--section-padding);
-    padding-right: var(--section-padding);
+    padding: var(--section-padding);
 }
 .section-header {
     text-align: var(--section-header-align);
-    padding-left: var(--section-header-padding);
-    padding-top: var(--section-header-padding);
-    padding-bottom: var(--section-header-padding);
-    padding-right: var(--section-header-padding);
-}
+    padding: var(--section-header-padding);
+    }
 .section-body {
-    padding-left: var(--section-body-padding);
-    padding-top: var(--section-body-padding);
-    padding-bottom: var(--section-body-padding);
-    padding-right: var(--section-body-padding); 
+    padding: var(--section-body-padding);
 }
 .section-footer {
-    padding-left: var(--section-footer-padding);
-    padding-top: var(--section-footer-padding);
-    padding-bottom: var(--section-footer-padding);
-    padding-right: var(--section-footer-padding);
+    padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
 }
 .section-title {
@@ -112,8 +100,5 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: var(--font-weight-bold);
 }
 .footer {
-    padding-left: var(--footer-padding);
-    padding-top: var(--footer-padding);
-    padding-bottom: var(--footer-padding);
-    padding-right: var(--footer-padding); 
+    padding: var(--footer-padding);
 }
