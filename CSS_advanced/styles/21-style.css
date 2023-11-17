@@ -140,15 +140,15 @@ ul.row {
     padding: 0;
     list-style: none;
 }
-.col- {
-    float: left;
-    padding: 0.5rem;
-}
 .col-1-3 {
     width: 33.33%;
 }
 .col-1-2 {
     width: 50%;
+}
+.col- {
+    float: left;
+    padding: 0.5rem;
 }
 .footer-copyright {
     margin: 0;
