@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
     padding: 0.5rem 1rem;
 }
-.nav .nav-link:hover {
+.nav-link:hover {
     color: var(--nav-item-link-hover);
 }
 ul.row {
@@ -175,6 +175,6 @@ ul.row {
 .social-link {
     display: block;
 }
-.social-link svg {
-    fill: currentColor;
+.social-link > svg {
+    fill: var(--text-color);
 }
