@@ -176,5 +176,5 @@ ul.row {
     display: block;
 }
 .social-link svg {
-    fill: var(--color-primary);
+    fill: var(--text-color);
 }
