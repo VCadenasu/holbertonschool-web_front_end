@@ -173,7 +173,7 @@ ul.row {
     color: var(--text-color);
 }
 .social-link {
-    display: block;
+    display: inline-block;
 }
 .social-link svg {
     color: var(--text-color);
