@@ -170,11 +170,11 @@ ul.row {
     --section-title-color: var(--color-white);
 }
 .footer-address {
-    color: var(--color-primary);
+    color: var(--text-color);
 }
 .social-link {
     display: block;
 }
 .social-link svg {
-    color: var(--text-color);
+    color: var(--color-primary);
 }
