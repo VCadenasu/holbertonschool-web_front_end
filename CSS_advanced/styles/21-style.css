@@ -140,7 +140,7 @@ ul.row {
     padding: 0;
     list-style: none;
 }
-.[col-] {
+.col- {
     float: left;
     padding: 0.5rem;
 }
