@@ -160,6 +160,6 @@ ul.row {
 }
 .row::after {
     content: "";
-    display: table;
-    float: unset;
+    display: block;
+    float: none;
 }
