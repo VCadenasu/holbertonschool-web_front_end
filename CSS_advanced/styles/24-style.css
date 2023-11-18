@@ -178,7 +178,7 @@ ul.row {
 .social-link > svg {
     fill: var(--text-color);
 }
-.card-services > .card-title {
+.card-services .card-title {
     margin: 0;
 }
 .card-services a {
