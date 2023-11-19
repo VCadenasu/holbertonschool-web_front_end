@@ -190,7 +190,7 @@ ul.row {
     background-color: var(--color-black);
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
-    --button-color: var(--color-white);
+    --button-color: var(--color-primary);
 }
 .footer-address {
     color: var(--text-color);
